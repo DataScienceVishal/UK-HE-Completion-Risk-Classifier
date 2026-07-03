@@ -195,7 +195,7 @@ UK-HE-Completion-Risk-Classifier/
 ## Reproduce
 
 ```bash
-git clone https://github.com/<your-username>/UK-HE-Completion-Risk-Classifier.git
+git clone https://github.com/DataScienceVishal/UK-HE-Completion-Risk-Classifier.git
 cd UK-HE-Completion-Risk-Classifier
 
 python3 -m venv .venv
