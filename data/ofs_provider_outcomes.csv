@@ -1,0 +1,313 @@
+provider,provider_name,continuation_rate,completion_rate,attainment_rate,progression_rate,continuation_rate_below_median,continuation_rate_bottom_quartile,completion_rate_below_median,completion_rate_bottom_quartile,attainment_rate_below_median,attainment_rate_bottom_quartile,progression_rate_below_median,progression_rate_bottom_quartile,pct_mature,pct_disabled,pct_female,pct_eth_asian,pct_eth_black,pct_eth_mixed,pct_eth_other,pct_imd_q1,pct_imd_q2,pct_imd_q3,pct_imd_q4,pct_polar_q1,pct_polar_q2,pct_polar_q3,pct_polar_q4,pct_tundra_q1,pct_tundra_q2,pct_tundra_q3,pct_tundra_q4
+10042570,AAP Education Limited,91.1,83.1,79.4,76.7,False,False,False,False,False,False,False,False,11.5,21.8,42.1,18.4,12.1,10.9,5.9,14.7,26.2,21.9,17.1,7.3,8.7,17.2,28.5,6.6,10.7,13.3,23.9
+10067853,ACM Guildford Limited,82.2,77.1,73.5,69.9,True,False,True,False,True,False,False,False,30.4,31.8,30.5,4.7,14.9,9.9,3.4,17.6,18.3,20.3,21.0,11.3,14.1,19.6,23.9,12.0,15.7,19.6,23.6
+10000055,Abingdon and Witney College,68.2,72.2,,,True,True,True,True,,,,,83.5,13.1,69.9,5.8,,2.3,,2.8,8.5,11.9,32.4,13.8,13.8,13.8,17.2,,27.6,27.6,24.1
+10036456,Academy of Live Technology Ltd,94.2,,56.0,66.1,False,False,,,True,True,True,False,18.5,36.5,34.5,,,4.5,,20.8,20.8,14.9,20.2,23.4,22.1,15.9,18.6,22.5,18.8,25.4,18.8
+10004927,Activate Learning,74.1,73.6,65.5,61.1,True,True,True,True,True,True,True,False,65.8,19.5,48.4,4.0,7.4,3.1,0.8,10.2,13.9,21.0,18.7,14.8,18.4,17.8,17.2,14.7,23.9,24.5,14.4
+10000291,Anglia Ruskin University,81.4,83.7,68.3,67.4,True,False,False,False,True,False,False,False,58.3,14.8,65.4,10.9,22.2,4.9,3.7,19.4,29.6,21.7,15.9,17.4,19.2,21.1,22.9,20.5,19.7,19.7,21.2
+10005451,Arden University Limited,76.6,56.4,56.8,54.2,True,True,True,True,True,True,True,True,84.4,10.2,54.7,20.8,22.3,5.4,5.0,44.1,30.6,15.1,7.1,15.4,18.1,22.9,26.6,12.2,12.9,15.7,26.9
+10000381,Arts Educational Schools (The),95.3,95.0,95.8,78.5,False,False,False,False,False,False,False,False,6.0,20.6,59.2,3.5,11.5,12.0,,7.6,14.3,17.8,24.7,6.6,12.1,18.6,25.9,8.6,12.4,20.0,26.5
+10000385,Arts University Bournemouth,93.7,94.6,75.5,62.8,False,False,False,False,False,False,True,False,9.5,30.3,72.4,3.5,2.1,6.8,1.1,7.0,14.5,19.8,25.5,10.5,14.6,18.6,22.7,12.5,18.0,22.7,22.7
+10005127,Arts University Plymouth,87.9,82.4,67.5,60.2,False,False,True,False,True,True,True,False,26.8,45.1,73.7,1.6,1.0,4.5,0.5,15.7,27.4,23.6,18.4,19.2,26.1,21.3,19.4,23.4,27.2,23.1,18.0
+10000415,Askham Bryan College,81.8,72.4,70.5,46.1,True,False,True,True,True,False,True,True,27.0,40.5,80.5,1.2,,1.6,,23.2,18.1,18.3,21.9,22.4,23.7,18.2,19.2,22.3,16.8,24.2,21.3
+10020416,Assemblies of God Incorporated,89.7,81.5,,,False,False,True,False,,,,,43.3,18.3,51.7,,10.2,5.1,,20.7,22.4,19.0,22.4,20.6,26.5,20.6,23.5,21.2,24.2,27.3,21.2
+10007759,Aston University,94.5,94.1,80.1,80.3,False,False,False,False,False,False,False,False,4.9,9.1,45.4,55.9,19.6,4.5,3.4,46.0,19.3,14.0,10.3,11.9,21.2,30.5,17.9,8.2,13.3,18.5,32.1
+10000473,Aylesbury College,84.7,72.1,,47.9,True,False,True,True,,,True,True,32.3,33.3,61.1,2.6,2.9,7.0,1.5,3.5,11.5,14.0,26.9,4.6,5.6,21.0,22.6,2.1,8.7,17.4,28.2
+10037544,BIMM University Limited,86.5,79.0,72.1,64.8,False,False,True,False,True,False,True,False,17.0,24.4,46.6,1.9,4.2,7.4,1.8,14.8,18.3,20.3,23.1,14.6,18.1,19.1,20.8,16.5,19.4,21.6,21.1
+10031982,BPP University Limited,90.1,69.3,55.1,84.3,False,False,True,True,True,True,False,False,90.2,8.8,73.1,42.0,32.1,,,30.7,25.3,22.0,11.1,13.8,17.2,31.0,,17.9,10.7,25.0,14.3
+10000536,Barnsley College,82.6,75.6,82.4,58.5,True,False,True,True,False,False,True,False,42.4,23.0,67.7,1.3,2.0,1.3,,45.1,26.7,13.2,11.9,51.4,33.7,5.6,8.7,49.2,30.3,10.8,8.7
+10000560,Basingstoke College of Technology,88.1,88.9,,,False,False,False,False,,,,,65.9,7.7,81.3,,,3.3,,,20.0,14.4,27.8,29.0,19.4,9.7,22.6,38.7,19.4,9.7,22.6
+10001465,Bath College,92.9,70.9,,78.6,False,False,True,True,,,False,False,20.2,31.5,69.4,,,2.4,,4.9,11.4,24.4,21.1,10.1,14.1,18.2,20.2,16.3,17.3,17.3,21.4
+10000571,Bath Spa University,82.5,87.0,75.1,64.5,True,False,False,False,False,False,True,False,71.8,11.7,44.4,9.6,8.4,5.1,5.8,34.2,25.0,17.8,12.6,15.0,17.8,20.8,20.3,16.6,20.6,22.8,21.7
+10000610,Bedford College,73.2,80.8,,50.3,True,True,True,False,,,True,True,52.3,15.0,43.7,22.2,6.0,3.4,0.8,32.9,20.2,17.9,13.9,7.2,26.5,25.5,26.0,12.0,29.8,30.5,19.5
+10007760,Birkbeck College,80.0,70.4,67.8,66.9,True,True,True,True,True,False,False,False,57.8,23.4,50.9,16.5,18.7,10.8,8.7,22.1,34.7,22.5,12.2,6.6,8.9,19.2,31.4,6.4,8.3,11.4,26.4
+10007140,Birmingham City University,89.5,87.0,61.9,71.2,False,False,False,False,True,True,False,False,19.8,15.5,62.0,29.8,24.1,6.5,2.6,46.2,19.3,13.8,11.1,16.7,22.8,28.2,16.9,13.0,16.3,19.4,30.3
+10006442,Birmingham Metropolitan College,74.2,78.8,,51.1,True,True,True,False,,,True,True,39.3,17.2,40.1,17.1,15.2,6.4,2.4,46.4,16.8,11.5,16.0,17.9,22.7,28.8,14.8,14.5,11.0,23.2,28.9
+10007832,Birmingham Newman University,85.1,76.0,71.4,64.0,True,False,True,True,True,False,True,False,53.5,20.2,67.7,19.9,14.4,7.4,5.3,55.0,20.0,13.3,6.6,22.7,25.3,27.4,14.4,15.0,22.1,20.8,26.4
+10000720,Bishop Auckland College,83.9,72.3,82.2,61.2,True,False,True,True,False,False,True,False,58.0,25.4,62.1,,,,,42.0,32.6,12.9,7.6,40.4,31.9,13.8,11.7,53.2,26.6,11.7,6.4
+10000721,Bishop Burton College,79.9,67.2,46.3,44.0,True,True,True,True,True,True,True,True,28.0,37.2,74.0,,,1.5,0.5,16.2,20.5,18.6,23.9,17.2,21.6,23.0,22.3,15.8,22.1,27.1,22.4
+10000747,Blackburn College,75.4,65.2,57.4,58.6,True,True,True,True,True,True,True,False,67.1,28.4,69.7,26.9,1.0,3.3,0.3,62.9,17.0,7.6,8.8,15.5,23.4,14.2,32.8,5.9,34.7,11.0,23.6
+10000754,Blackpool and the Fylde College,80.1,78.2,69.6,59.0,True,True,True,False,True,False,True,False,61.8,27.5,44.5,1.7,0.6,1.8,0.5,41.7,22.8,14.0,12.9,19.4,23.6,21.5,20.2,19.2,21.8,21.9,25.3
+10004061,Bloomsbury Institute Limited,67.7,51.7,63.0,53.7,True,True,True,True,True,True,True,True,60.2,22.9,55.6,18.9,28.6,11.8,7.5,25.5,43.6,17.5,9.5,9.4,12.9,18.0,32.4,5.0,11.5,9.4,24.5
+10000794,Bolton College,75.6,69.5,,,True,True,True,True,,,,,80.0,16.7,86.7,11.2,2.8,1.7,1.7,53.3,15.6,12.8,13.9,30.6,30.6,19.4,13.9,25.0,36.1,,27.8
+10000812,Boston College,78.8,86.7,61.7,57.7,True,True,False,False,True,True,True,False,36.2,30.9,67.1,,,4.2,,21.4,34.8,22.0,16.4,37.7,37.7,23.2,1.3,31.4,52.8,13.1,1.7
+10000824,Bournemouth University,90.7,88.9,76.3,75.3,False,False,False,False,False,False,False,False,14.9,22.0,53.3,5.7,4.5,6.2,1.7,8.0,15.2,20.3,23.6,12.5,16.2,18.6,21.2,14.1,20.0,21.8,21.4
+10000820,"Bournemouth and Poole College, the",77.0,76.2,68.6,56.7,True,True,True,True,True,False,True,True,29.0,45.0,34.3,1.8,,3.7,,7.1,24.9,18.9,24.3,26.7,23.3,24.2,12.5,24.2,33.3,24.2,11.7
+10000840,Bradford College,83.5,75.4,52.8,59.6,True,False,True,True,True,True,True,False,46.8,20.0,64.2,53.1,4.4,5.8,1.4,62.8,21.5,8.3,4.9,9.4,34.0,33.7,17.4,7.1,15.2,41.1,31.5
+10038772,British Academy of Jewellery Limited,84.5,85.4,,,True,False,False,False,,,,,90.2,3.4,43.9,23.3,3.0,2.4,6.9,52.0,24.0,15.3,5.1,22.2,28.8,17.0,23.5,20.3,26.8,15.7,20.9
+10000944,Brockenhurst College,93.8,78.8,65.0,74.1,False,False,True,False,True,True,False,False,60.3,26.5,95.6,,,4.5,,13.2,10.3,22.1,20.6,18.5,40.7,,14.8,25.9,33.3,18.5,18.5
+10000961,Brunel University London,89.0,91.1,68.0,71.0,False,False,False,False,True,False,False,False,11.6,13.1,41.4,38.3,22.1,7.4,9.1,17.6,34.5,23.5,14.5,3.4,8.0,16.4,32.5,3.2,6.2,8.8,24.7
+10000975,Buckinghamshire New University,80.7,76.5,52.7,66.0,True,True,True,True,True,True,True,False,80.2,6.1,50.8,11.6,17.9,5.2,5.8,31.8,29.1,18.9,11.6,11.9,17.3,20.7,23.1,11.2,15.8,20.8,23.5
+10001000,Burnley College,75.4,73.8,59.9,54.7,True,True,True,True,True,True,True,True,61.2,26.8,67.5,13.6,0.7,3.0,,56.2,21.9,10.3,9.3,17.3,41.0,21.1,16.8,12.4,37.6,24.3,19.7
+10001005,Bury College,80.9,74.0,52.6,44.6,True,True,True,True,True,True,True,True,46.9,21.4,71.4,10.5,3.9,6.0,0.6,40.7,24.9,14.2,11.9,15.1,34.9,20.5,17.1,11.2,29.8,24.4,20.9
+10001093,Calderdale College,84.4,74.9,64.1,59.9,True,False,True,True,True,True,True,False,62.0,33.5,70.8,11.3,2.8,2.8,,49.3,20.8,15.8,12.0,16.7,31.5,37.0,6.5,15.7,15.7,39.8,17.6
+10010308,Cambridge Arts & Sciences Limited,84.6,84.8,87.0,61.4,True,False,False,False,False,False,True,False,18.5,21.0,76.3,4.5,7.5,11.9,,16.4,27.4,13.7,23.3,22.7,16.7,12.1,18.2,18.6,20.3,18.6,23.7
+10001116,Cambridge Regional College,87.6,89.2,,56.9,False,False,False,False,,,True,False,23.7,18.3,42.4,4.7,2.7,1.6,,2.7,6.9,26.3,29.8,13.5,12.0,15.0,28.5,17.0,14.0,25.0,33.0
+10001143,Canterbury Christ Church University,80.4,82.7,70.3,72.9,True,True,False,False,True,False,False,False,82.3,8.2,52.2,12.9,11.7,4.1,6.4,35.8,28.7,18.6,10.7,19.5,22.2,23.2,22.1,18.6,21.0,22.4,21.4
+10007455,Capital City College Group,83.8,81.1,75.3,69.1,True,False,True,False,False,False,False,False,82.5,14.8,78.1,12.4,28.8,10.1,9.7,26.7,35.8,18.0,13.0,,3.5,24.7,37.6,,3.6,11.9,31.0
+10024024,Central Film School London Ltd,86.2,,73.2,65.4,False,False,,,True,False,True,False,39.9,22.5,38.1,7.6,14.8,10.0,4.8,15.1,30.7,26.4,13.7,4.6,11.5,19.8,27.5,6.4,8.8,13.6,29.6
+10001264,Central School of Ballet Charitable Trust Ltd,94.7,93.3,87.2,60.7,False,False,False,False,False,False,True,False,,11.5,68.3,3.9,,3.9,,,4.8,17.9,33.3,2.9,9.6,19.2,23.1,7.1,8.3,22.6,27.4
+10005972,Cheshire College South and West,88.6,82.8,86.0,54.1,False,False,False,False,False,False,True,True,39.8,31.1,35.9,1.6,1.0,2.6,,23.0,18.1,13.8,20.2,30.6,16.7,11.8,16.7,33.9,12.5,11.3,19.6
+10001378,Chesterfield College,82.6,75.5,,58.5,True,False,True,True,,,True,False,28.4,30.4,62.9,1.7,1.5,2.2,0.7,25.1,23.9,16.1,13.5,35.7,17.2,17.8,10.8,32.0,19.2,20.5,6.4
+10007817,Chichester College Group,83.9,77.6,83.9,49.9,True,False,True,False,False,False,True,True,25.6,39.6,52.6,3.2,2.1,4.9,,8.6,18.4,26.7,25.8,22.8,23.9,17.8,18.8,26.9,25.8,24.4,14.7
+10004772,City College Norwich,83.9,79.1,71.9,56.7,True,False,True,False,True,False,True,True,37.5,28.3,58.1,2.0,2.6,2.3,0.5,13.5,18.3,30.2,20.6,23.1,27.3,25.2,19.0,38.5,36.2,12.5,10.2
+10005128,City College Plymouth,78.0,76.9,65.0,65.2,True,True,True,False,True,True,True,False,43.3,37.5,43.1,0.6,0.6,1.9,0.6,29.7,25.8,19.4,15.7,25.8,28.0,24.7,14.2,28.0,26.9,22.9,19.3
+10001478,"City St George's, University of London",91.8,91.9,80.9,80.6,False,False,False,False,False,False,False,False,13.3,10.3,62.3,46.5,16.5,5.8,8.7,20.7,32.6,21.6,14.3,3.1,6.9,16.1,36.4,3.0,5.7,9.2,23.9
+10039082,City and Guilds of London Art School Limited,95.3,78.3,92.4,75.5,False,False,True,False,False,False,False,False,32.7,33.3,72.0,2.8,0.9,9.6,,5.3,19.5,24.9,25.6,,2.3,2.7,17.7,1.1,3.6,6.8,25.7
+10001467,City of Bristol College,83.0,79.6,,70.8,True,False,True,False,,,False,False,81.0,24.3,47.9,5.5,9.4,7.4,1.2,25.8,21.3,17.4,19.4,43.9,15.3,15.3,11.2,43.2,23.2,13.7,9.5
+10007945,City of Portsmouth College,77.3,81.8,,62.3,True,True,True,False,,,True,False,73.0,19.7,57.7,7.3,2.2,2.2,,15.3,24.1,24.1,16.8,40.5,18.9,,18.9,43.2,29.7,16.2,8.1
+10001475,City of Sunderland College,71.2,69.0,61.1,47.9,True,True,True,True,True,True,True,True,59.2,17.8,62.0,16.1,6.9,2.8,0.3,59.8,18.4,10.5,7.5,40.2,26.0,15.9,9.2,35.6,27.7,14.9,12.6
+10007578,City of Wolverhampton College,79.0,78.5,,54.6,True,True,True,False,,,True,True,42.0,4.9,32.1,21.0,7.4,4.9,,50.6,24.7,12.3,8.6,31.9,17.0,23.4,,,31.9,19.1,21.3
+10001535,Colchester Institute,80.8,69.5,67.6,60.9,True,True,True,True,True,True,True,False,42.8,29.6,54.3,1.3,4.2,3.8,0.8,16.8,16.6,26.8,25.1,24.2,21.9,21.2,20.4,31.0,25.0,23.1,16.8
+10004028,Contemporary Dance Trust Limited,95.3,93.7,,76.9,False,False,False,False,,,False,False,5.1,38.4,78.1,2.6,4.1,13.3,1.5,8.8,14.8,28.6,24.2,8.0,15.5,17.1,27.3,8.0,18.4,20.1,27.0
+10001696,Cornwall College,83.5,82.7,76.4,52.7,True,False,False,False,False,False,True,True,54.2,32.7,53.6,0.4,,1.7,1.1,10.3,29.6,27.0,18.3,11.4,19.2,25.4,18.9,15.7,27.4,26.2,16.2
+10034324,Court Theatre Training Company Ltd,91.4,88.4,94.2,58.0,False,False,False,False,False,False,True,False,47.5,33.8,48.7,,11.8,9.2,,14.9,24.3,23.0,17.6,14.3,11.9,16.7,26.2,17.5,,20.0,15.0
+10007761,Courtauld Institute of Art,93.5,95.1,93.7,70.5,False,False,False,False,False,False,False,False,9.5,39.2,80.1,3.4,1.7,8.4,2.0,4.3,16.7,24.0,28.0,5.1,9.5,9.8,22.9,6.1,10.7,18.0,24.9
+10003010,Coventry College,89.6,65.4,,48.2,False,False,True,True,,,True,True,46.2,24.7,57.0,16.3,3.3,5.4,,22.6,26.9,28.0,14.0,24.0,28.0,34.0,8.0,26.0,28.0,24.0,18.0
+10001726,Coventry University,81.3,82.9,78.8,72.3,True,False,False,False,False,False,False,False,26.1,16.0,53.4,25.3,27.1,5.3,2.8,35.4,24.0,16.6,12.9,15.2,21.7,27.1,18.4,12.5,17.5,21.4,27.8
+10001743,Craven College,75.0,74.2,51.8,42.4,True,True,True,True,True,True,True,True,31.0,31.0,61.2,9.4,5.5,2.4,2.4,31.3,13.3,20.3,21.1,15.7,18.0,21.3,29.2,14.8,20.5,28.4,21.6
+10001778,Croydon College,77.9,71.6,64.4,61.1,True,True,True,True,True,True,True,False,87.3,25.5,82.8,6.6,63.3,10.7,2.6,28.4,42.6,19.1,7.4,,,11.5,50.0,,,11.5,42.3
+10001919,DCG,89.1,88.9,64.8,49.3,False,False,False,False,True,True,True,True,39.3,20.1,65.8,3.8,,2.6,1.5,19.8,17.2,20.1,18.1,37.4,15.4,19.6,20.1,39.5,20.5,23.3,10.7
+10004695,DN Colleges Group,78.5,73.4,67.6,62.1,True,True,True,True,True,True,True,False,72.1,30.5,73.0,2.9,2.3,2.0,0.3,38.5,19.9,19.8,14.8,45.7,28.5,16.7,4.3,46.9,21.6,23.8,4.3
+10015688,David Game College Ltd,87.1,,,53.6,False,False,,,,,True,True,93.8,4.1,59.2,3.0,4.1,0.7,1.7,19.3,35.3,26.7,13.1,,10.0,26.0,24.0,,8.0,14.0,16.0
+10001883,De Montfort University,86.2,88.3,72.1,69.0,False,False,False,False,True,False,False,False,20.2,16.9,58.3,25.6,22.9,6.0,2.0,28.4,24.6,17.2,15.3,16.9,19.2,24.7,22.5,16.7,18.8,20.8,24.1
+10007924,Dudley College of Technology,81.9,73.1,,58.6,True,False,True,True,,,True,False,39.7,22.2,48.3,7.2,4.9,4.4,,36.0,21.4,15.3,14.8,33.1,30.2,14.3,17.6,24.1,30.2,21.6,20.4
+10006570,EKC Group,83.3,79.1,,50.5,True,False,True,False,,,True,True,67.5,30.4,58.3,2.0,2.9,4.9,1.2,20.9,20.4,26.0,23.3,25.2,20.7,32.4,14.4,25.2,22.5,33.3,14.4
+10004552,East Lancashire Learning Group,80.4,81.6,70.4,72.2,True,True,True,False,True,False,False,False,76.7,25.4,63.9,13.0,0.7,2.6,0.7,51.1,20.9,10.9,11.5,16.8,35.5,26.2,17.8,13.1,43.0,18.7,18.7
+10002130,East Surrey College,79.2,78.8,69.4,57.2,True,True,True,False,True,False,True,False,41.8,28.4,66.7,4.0,15.9,8.5,,11.1,23.1,19.6,22.1,,10.3,18.8,24.8,6.8,12.8,20.5,34.2
+10002923,East Sussex College Group,82.6,78.0,78.4,62.2,True,False,True,False,False,False,True,False,83.9,13.5,57.4,4.9,1.7,1.7,1.8,21.4,33.9,23.3,14.3,35.2,16.2,12.6,16.2,37.7,21.5,15.4,13.8
+10007823,Edge Hill University,90.6,90.4,75.2,73.0,False,False,False,False,False,False,False,False,24.1,21.0,70.4,3.6,2.9,2.6,0.5,33.5,16.7,16.5,18.0,19.5,21.6,20.0,21.1,16.6,21.9,18.4,23.2
+10009213,Education for Industry Group,89.9,90.0,,,False,False,False,False,,,,,25.8,13.8,89.4,5.3,8.4,9.5,1.0,7.3,18.5,19.0,22.4,6.0,13.6,22.8,25.5,6.2,16.2,24.1,22.4
+10021100,Elim Foursquare Gospel Alliance,91.8,82.6,53.1,75.3,False,False,False,False,True,True,False,False,51.4,32.4,54.1,,7.2,2.7,,16.5,18.7,17.6,28.6,16.7,22.2,16.7,18.5,18.2,25.0,22.7,20.5
+10002370,Exeter College,79.8,74.7,68.8,63.0,True,True,True,True,True,False,True,False,31.9,42.6,42.6,1.0,1.3,2.3,,3.6,13.6,36.9,22.7,16.6,26.5,22.7,19.4,25.1,29.4,30.3,13.3
+10008640,Falmouth University,88.6,86.7,77.7,66.1,False,False,False,False,False,False,True,False,17.1,38.0,56.2,1.7,1.9,5.3,0.6,9.8,18.1,24.0,23.8,11.0,17.2,21.0,22.1,13.8,20.6,24.5,21.4
+10002412,Farnborough College of Technology,79.2,77.6,70.8,71.5,True,True,True,False,True,False,False,False,49.5,28.2,56.3,5.9,4.7,4.2,1.6,1.3,10.3,12.7,22.3,9.5,10.8,17.5,23.5,10.9,18.5,27.5,22.4
+10002599,Furness College,89.2,74.2,45.9,81.9,False,False,True,True,True,True,False,False,58.6,18.9,54.1,,,,,31.5,15.3,19.8,26.1,34.8,23.9,15.2,10.9,52.2,13.0,17.4,13.0
+10022087,Futureworks Training Limited,83.3,82.9,74.7,67.1,True,False,False,False,False,False,False,False,19.3,36.1,25.6,4.6,4.5,5.2,0.8,30.3,18.3,16.5,20.2,19.3,23.3,18.3,19.8,19.1,19.7,21.7,21.9
+10002638,Gateshead College,79.1,70.7,,65.5,True,True,True,True,,,True,False,37.1,53.9,27.0,,,5.1,2.8,37.1,29.8,9.6,12.4,31.3,28.6,16.1,17.9,23.2,27.7,23.2,12.5
+10042500,Global Banking School Limited,78.8,82.6,,42.9,True,True,False,False,,,True,True,91.2,4.3,47.7,21.4,22.7,4.7,4.1,45.0,29.4,15.2,7.2,20.1,21.1,22.8,21.1,15.5,15.3,17.2,26.7
+10002696,Gloucestershire College,82.4,79.6,,52.8,True,False,True,False,,,True,True,56.0,15.2,44.4,9.6,4.6,2.8,1.3,23.7,21.2,20.8,15.6,18.1,37.0,17.6,18.1,23.1,32.1,24.4,11.5
+10002718,Goldsmiths' College,84.7,77.7,89.2,67.4,True,False,True,False,False,False,False,False,24.6,27.7,60.6,21.7,17.0,10.4,4.8,19.8,31.8,20.5,14.4,5.0,8.4,17.7,36.7,5.6,7.2,12.4,28.0
+10002743,Grantham College,81.7,79.3,,39.1,True,False,True,False,,,True,True,21.4,33.0,41.7,,,,,7.8,20.6,22.5,16.7,17.3,35.8,3.7,28.4,17.5,3.8,37.5,27.5
+10007825,Guildhall School of Music & Drama,95.3,95.4,92.2,81.7,False,False,False,False,False,False,False,False,13.6,33.6,41.7,3.1,5.8,11.0,1.0,7.9,15.4,20.4,23.5,4.9,8.0,17.1,23.9,5.8,12.3,17.1,28.5
+10041898,HY Education Limited,86.5,85.9,,43.6,False,False,False,False,,,True,True,89.3,4.4,49.6,8.5,41.3,4.2,21.9,42.6,37.3,14.3,4.3,15.5,22.5,18.3,26.1,19.6,20.3,14.5,18.8
+10002852,Halesowen College,77.8,64.6,,51.1,True,True,True,True,,,True,True,15.0,16.8,40.2,10.3,6.5,5.1,4.7,39.3,22.9,20.1,8.9,26.9,30.2,21.4,13.2,14.3,31.9,24.2,19.2
+10002899,Harlow College,87.8,77.5,,58.9,False,False,True,False,,,True,False,11.6,35.5,55.4,2.5,5.0,5.0,,3.3,37.2,25.6,16.5,36.4,22.4,17.8,11.2,33.6,31.8,14.0,11.2
+10040812,Harper Adams University,92.7,94.0,74.0,71.9,False,False,False,False,False,False,False,False,8.4,28.0,63.5,1.0,0.5,1.6,0.2,6.2,14.5,28.5,27.1,7.5,11.3,20.3,28.6,10.3,16.4,25.4,29.0
+10007193,"Harrow, Richmond & Uxbridge College (HRUC)",82.1,78.3,,42.2,True,False,True,False,,,True,True,27.9,11.8,32.7,46.7,10.3,5.7,8.8,12.3,41.3,28.7,11.4,,11.6,13.7,36.5,,6.2,7.1,25.5
+10080811,Hartpury University,90.6,86.0,67.9,62.8,False,False,False,False,True,False,True,False,13.0,22.2,67.9,0.9,1.7,4.2,0.3,7.4,13.4,23.7,26.4,13.0,16.6,21.9,23.0,14.7,19.8,26.3,23.8
+10005979,Havant and South Downs College,85.1,83.5,,,True,False,False,False,,,,,18.5,24.9,59.9,1.3,0.9,2.2,,23.1,14.9,19.5,16.7,36.6,22.0,8.6,17.2,44.4,23.9,25.7,3.4
+10000163,Health Sciences University,94.0,92.5,68.4,94.1,False,False,False,False,True,False,False,False,26.2,23.3,44.5,10.6,4.1,7.7,3.4,11.7,18.5,20.6,21.3,12.0,14.9,18.1,24.9,13.8,19.1,16.6,23.2
+10007977,Heart of Worcestershire College,83.2,78.1,53.3,65.8,True,False,True,False,True,True,True,False,35.1,22.1,39.9,3.7,2.2,5.1,1.1,24.3,18.1,21.7,18.8,29.1,17.9,17.9,23.5,18.4,34.1,25.1,17.9
+10007289,Heart of Yorkshire Education Group,82.9,80.2,67.6,51.8,True,False,True,False,True,True,True,True,29.7,21.0,59.2,3.8,1.6,2.5,0.7,30.5,23.2,15.8,17.0,31.8,33.9,22.7,8.5,31.2,21.1,33.2,12.7
+10003022,Hereford College of Arts,91.1,83.9,74.1,49.8,False,False,False,False,False,False,True,True,34.4,63.7,62.4,0.8,1.2,2.3,,9.3,17.9,34.7,21.8,12.7,21.7,23.9,19.7,13.8,27.9,26.3,18.2
+10003035,Hertford Regional College,83.0,73.6,,62.4,True,False,True,True,,,True,False,29.3,30.0,60.5,1.9,4.6,4.2,,8.7,26.2,24.0,17.5,8.1,26.9,23.1,15.1,10.2,27.4,23.7,14.5
+10003128,Holy Cross College,91.6,77.1,69.6,68.6,False,False,True,False,True,False,False,False,82.8,13.8,94.1,7.0,,1.5,,39.9,26.1,14.8,12.8,28.6,17.1,31.4,14.3,22.9,31.4,28.6,8.6
+10003146,Hopwood Hall College,73.9,48.7,,61.7,True,True,True,True,,,True,False,32.9,27.0,52.6,13.2,3.3,4.6,,53.3,23.7,9.2,9.2,13.7,34.3,25.5,19.6,10.8,36.3,12.7,33.3
+10003193,Hugh Baird College,75.5,74.1,70.3,55.8,True,True,True,True,True,False,True,True,75.2,37.2,72.5,1.2,4.8,4.1,0.6,76.0,10.4,8.3,3.2,38.3,33.9,10.6,12.8,28.2,42.4,11.3,9.6
+10003200,Hull College,73.1,72.3,67.5,57.7,True,True,True,True,True,True,True,False,52.3,30.0,75.3,1.0,1.0,4.0,,48.7,20.7,10.0,12.7,52.4,16.1,13.3,11.2,46.9,24.5,11.2,7.0
+10035638,ICMP Management Limited,79.9,74.9,66.3,72.7,True,True,True,True,True,True,False,False,49.2,29.9,31.2,6.6,16.3,11.4,3.9,23.7,27.2,18.7,15.9,11.3,13.1,18.9,25.6,10.9,13.6,16.5,24.9
+10003239,ICON College of Technology and Management Ltd,74.3,73.0,43.0,45.6,True,True,True,True,True,True,True,True,96.1,2.1,50.8,7.5,9.0,2.4,7.1,21.4,39.8,23.7,9.9,6.3,13.5,13.5,40.5,5.4,7.2,11.7,17.1
+10003270,"Imperial College of Science, Technology and Medicine",96.6,98.3,89.6,93.4,False,False,False,False,False,False,False,False,3.1,13.5,38.0,43.9,6.2,8.5,3.7,14.2,14.9,19.0,22.7,5.7,9.4,12.7,22.8,5.8,8.5,12.8,23.8
+10009527,Istituto Marangoni Limited,80.9,88.4,70.7,67.1,True,True,False,False,True,False,False,False,28.9,19.5,81.5,8.6,3.6,14.3,12.1,10.2,28.0,21.7,20.4,2.7,11.6,9.8,15.2,7.8,7.8,11.8,17.6
+10003645,King's College London,94.5,94.6,87.0,82.7,False,False,False,False,False,False,False,False,11.5,17.5,65.8,36.6,11.9,8.4,6.1,16.7,26.8,20.0,17.7,6.0,9.7,15.0,28.9,6.0,8.7,11.8,24.0
+10003678,Kingston University,90.6,89.4,69.6,69.6,False,False,False,False,True,False,False,False,20.9,15.1,59.0,27.7,23.8,7.1,8.0,17.2,30.5,22.1,15.9,6.4,9.6,18.3,30.0,6.1,9.4,12.6,24.4
+10003189,Kirklees College,69.9,72.9,,41.1,True,True,True,True,,,True,True,43.5,30.5,48.9,20.8,2.3,4.6,3.1,46.2,19.2,13.8,13.8,8.1,27.0,39.2,21.6,,16.2,43.2,31.1
+10023139,LTE Group,85.7,74.0,78.5,55.8,True,False,True,True,False,False,True,True,39.8,18.5,64.6,9.5,15.2,7.3,2.5,45.3,19.7,13.2,11.8,21.9,22.3,20.5,20.7,20.6,21.4,17.5,24.1
+10003753,Lakes College West Cumbria,92.4,78.0,,58.9,False,False,True,False,,,True,False,53.6,10.7,25.0,,,,,22.9,20.5,25.3,18.1,39.5,23.7,15.8,10.5,42.1,26.3,13.2,7.9
+10003758,Lamda Limited,96.5,97.5,,74.0,False,False,False,False,,,False,False,35.1,39.8,53.3,3.0,17.4,11.4,,13.2,21.1,27.0,14.5,8.1,12.6,8.1,37.8,8.1,16.2,9.1,23.2
+10003798,Le Cordon Bleu Limited,93.7,92.5,,38.5,False,False,False,False,,,True,True,81.5,10.8,62.0,28.0,2.8,7.1,6.3,7.8,25.1,25.1,21.6,,,17.3,30.8,,6.0,20.0,32.0
+10003854,Leeds Arts University,94.9,95.7,74.0,64.0,False,False,False,False,False,False,True,False,7.8,30.5,74.4,4.1,2.5,5.9,0.8,17.4,18.3,19.2,21.7,16.0,18.8,18.5,19.8,15.8,18.4,21.4,19.7
+10003861,Leeds Beckett University,89.7,83.4,74.5,69.8,False,False,False,False,False,False,False,False,11.5,19.6,53.1,12.0,4.6,5.2,1.1,24.0,15.6,17.0,20.8,16.9,20.2,19.9,18.3,15.1,17.6,22.6,20.7
+10003855,Leeds College of Building,80.6,84.8,,,True,True,False,False,,,,,39.1,17.4,10.9,13.0,8.7,,,30.4,17.4,23.9,23.9,32.1,28.6,14.3,14.3,28.6,28.6,21.4,
+10034449,Leeds Conservatoire,91.1,86.1,85.7,73.0,False,False,False,False,False,False,False,False,11.5,32.3,37.2,1.5,2.7,6.3,0.6,11.4,14.4,21.6,25.1,10.6,16.1,18.2,20.3,11.8,15.6,21.7,21.8
+10003863,Leeds Trinity University,76.0,84.1,64.7,62.5,True,True,False,False,True,True,True,False,79.5,7.4,53.3,29.5,10.6,4.5,11.3,53.9,22.8,11.8,7.2,21.0,26.8,23.0,16.8,18.4,21.2,26.3,19.4
+10003867,Leicester College,76.5,82.0,,43.0,True,True,True,False,,,True,True,44.8,16.2,50.4,23.6,20.9,8.3,4.7,38.3,23.3,13.0,13.0,19.3,15.0,21.9,28.9,21.3,13.7,18.0,27.9
+10007811,Lincoln Bishop University,87.0,90.2,68.6,68.2,False,False,False,False,True,False,False,False,44.4,28.0,70.8,1.8,2.0,2.5,1.4,27.3,19.4,17.4,19.0,26.3,29.0,19.6,16.7,28.2,22.4,24.2,18.1
+10003928,Lincoln College,83.9,77.7,69.0,64.1,True,False,True,False,True,False,True,False,57.7,32.1,54.7,2.0,2.0,5.0,1.2,14.9,23.5,21.3,21.3,24.7,31.2,23.3,13.5,27.7,19.2,29.1,15.0
+10003956,Liverpool Hope University,87.5,88.8,72.9,63.4,False,False,False,False,True,False,True,False,16.9,25.7,61.1,4.2,4.1,4.6,2.1,39.0,16.6,14.3,17.4,22.9,19.7,18.5,18.7,18.3,21.9,19.5,19.8
+10003957,Liverpool John Moores University,89.6,86.0,74.9,71.2,False,False,False,False,False,False,False,False,14.5,17.3,58.1,5.1,3.3,4.2,1.8,31.2,15.5,16.3,18.7,18.0,18.0,18.9,21.2,14.4,19.7,18.6,22.0
+10030391,London Churchill College Ltd,94.9,72.9,,44.9,False,False,True,True,,,True,True,94.3,,44.2,19.4,3.8,0.5,0.7,30.2,46.0,17.3,5.2,15.6,22.2,23.3,25.6,18.9,18.9,18.9,7.8
+10019368,London College of Business Studies,73.9,91.7,,52.5,True,True,False,False,,,True,True,87.4,,48.6,10.0,5.0,,,35.2,40.2,15.5,5.3,36.4,20.0,29.1,10.9,43.6,10.9,29.1,5.5
+10004048,London Metropolitan University,77.3,75.3,73.3,60.8,True,True,True,True,True,False,True,False,72.9,11.0,62.8,12.9,23.6,8.7,6.1,29.9,34.3,19.2,10.4,7.6,10.5,20.2,33.4,7.3,9.3,12.2,26.1
+10022285,London School of Management Education Limited,93.6,92.6,54.6,43.7,False,False,False,False,True,True,True,True,92.8,4.4,60.2,27.3,14.3,0.4,2.2,21.1,38.4,25.5,10.7,9.2,10.5,21.1,35.5,9.2,9.2,7.9,22.4
+10004075,London School of Theology,79.4,79.3,65.2,78.6,True,True,True,False,True,True,False,False,81.5,29.0,53.5,5.4,35.3,7.1,1.6,18.8,26.2,17.3,16.8,,21.6,18.9,21.6,,17.1,31.4,28.6
+10004078,London South Bank University,87.6,84.6,74.6,69.6,False,False,False,False,False,False,False,False,39.2,18.2,61.2,20.7,34.8,7.8,6.9,24.4,36.1,19.6,11.4,5.8,9.6,19.9,37.2,5.3,8.4,12.1,26.5
+10000948,London South East Colleges,76.7,73.9,,66.4,True,True,True,True,,,False,False,57.1,17.0,39.0,6.1,42.3,10.6,2.8,23.6,30.5,20.1,15.4,5.4,18.0,15.3,41.4,,15.3,17.1,36.0
+10004079,London Studio Centre Limited,91.6,94.4,95.2,71.6,False,False,False,False,False,False,False,False,3.3,15.1,94.2,0.8,2.5,5.0,1.1,5.2,12.2,18.3,24.5,7.6,11.6,17.3,21.8,8.5,14.2,20.8,19.9
+10004112,Loughborough College,73.4,66.6,48.5,59.4,True,True,True,True,True,True,True,False,36.0,20.9,32.6,8.2,25.0,8.1,2.9,31.3,18.6,15.8,16.3,14.6,19.5,22.0,21.9,14.3,20.7,23.2,23.5
+10004113,Loughborough University,96.4,96.4,86.0,85.0,False,False,False,False,False,False,False,False,1.5,21.0,40.3,11.9,6.8,6.4,1.1,7.0,11.7,17.8,25.5,6.6,10.5,16.3,23.8,7.0,12.3,19.2,25.1
+10024962,Luminate Education Group,82.5,76.7,56.5,47.2,True,False,True,True,True,True,True,True,44.8,25.9,57.2,20.4,13.6,4.7,1.7,48.2,16.9,14.6,12.8,30.7,25.1,22.5,11.5,24.0,26.9,23.2,13.8
+10004144,Macclesfield College,82.4,76.0,,71.6,True,False,True,True,,,False,False,68.4,20.6,63.2,3.2,5.8,2.6,,8.4,19.5,14.3,24.7,,10.2,20.4,20.4,,28.6,,40.8
+10004180,Manchester Metropolitan University,90.1,89.0,79.3,69.9,False,False,False,False,False,False,False,False,10.2,17.3,57.4,20.2,8.2,6.7,2.2,32.0,17.3,14.6,17.1,15.0,19.0,20.0,21.7,13.1,17.0,18.8,26.2
+10045476,Met Film School Limited,92.7,88.6,89.9,65.2,False,False,False,False,False,False,True,False,17.6,30.9,45.7,6.4,4.9,7.9,2.6,5.9,15.9,22.2,29.3,3.9,11.8,10.5,20.1,5.5,12.7,15.5,26.4
+10004344,Middlesbrough College,80.5,81.2,50.3,48.7,True,True,True,False,True,True,True,True,34.2,38.9,54.5,6.1,1.1,3.0,0.6,49.9,15.6,12.2,13.0,39.4,25.1,9.8,18.3,28.8,27.3,14.5,10.9
+10004351,Middlesex University,79.1,83.7,71.2,69.2,True,True,False,False,True,False,False,False,38.2,14.4,61.7,21.9,31.7,7.4,8.8,24.8,34.9,21.5,11.7,4.3,7.3,18.8,35.7,4.0,6.0,8.4,25.8
+10004375,Milton Keynes College,82.2,76.3,,49.5,True,False,True,True,,,True,True,63.4,21.0,54.0,7.1,7.1,7.1,0.8,11.4,15.7,15.2,30.1,10.3,17.2,20.0,35.2,11.0,15.2,26.2,29.7
+10023777,Mont Rose College of Management and Sciences Limited,85.0,79.5,,45.7,True,False,True,False,,,True,True,97.2,9.8,58.9,15.0,30.5,1.4,4.9,28.5,38.3,22.0,8.4,,12.3,10.5,33.3,5.3,5.3,12.3,19.3
+10023454,Moorlands College,94.9,89.8,78.5,79.6,False,False,False,False,False,False,False,False,49.7,42.8,52.4,,2.8,3.5,,8.1,21.1,23.6,19.5,9.6,21.9,19.2,24.7,17.7,21.0,25.8,22.6
+10004432,Morley College Limited,71.3,76.4,68.4,59.9,True,True,True,True,True,False,True,False,58.8,27.3,79.6,8.2,19.3,9.8,4.1,14.4,26.3,27.2,17.3,,4.0,11.9,30.7,,5.1,7.1,19.2
+10004442,Moulton College,77.2,65.6,58.2,,True,True,True,True,True,True,,,31.5,29.8,43.4,2.3,7.3,7.3,,9.8,20.0,19.3,29.5,15.6,18.0,18.5,23.9,16.0,24.0,21.5,23.5
+10004450,Mountview Academy of Theatre Arts Limited,96.1,95.5,98.6,76.1,False,False,False,False,False,False,False,False,24.4,30.7,57.6,0.8,6.5,8.8,0.8,7.6,13.9,16.7,26.1,7.0,11.4,15.1,23.8,8.0,14.5,17.6,23.7
+10004478,Myerscough College,87.0,91.5,70.0,57.7,False,False,False,False,True,False,True,False,32.0,28.7,65.1,1.5,0.7,2.5,,22.6,20.5,17.0,23.0,12.7,18.3,20.7,23.7,12.0,18.9,15.8,31.6
+10004599,NCG,85.6,75.1,58.2,52.5,True,False,True,True,True,True,True,True,47.2,22.7,59.1,8.9,7.3,3.0,0.7,42.3,24.7,13.0,11.2,29.1,29.1,20.4,11.6,23.7,30.2,19.8,15.1
+10001444,National Centre for Circus Arts,93.7,88.9,93.6,72.1,False,False,False,False,False,False,False,False,21.0,29.6,83.8,,,10.0,,8.1,21.6,28.4,27.0,9.4,25.0,17.2,21.9,10.2,20.3,22.0,16.9
+10030129,Nelson College London Limited,87.1,81.8,28.4,36.7,False,False,True,False,True,True,True,True,88.8,5.0,47.7,10.8,12.7,1.5,12.0,47.1,28.4,16.1,5.6,45.1,21.8,18.8,7.3,43.4,18.5,9.0,17.1
+10006963,New City College,75.8,74.1,56.5,47.1,True,True,True,True,True,True,True,True,71.7,25.8,69.8,15.7,15.7,4.4,,13.8,30.2,25.2,17.0,22.2,17.8,26.7,13.3,22.2,20.0,20.0,8.9
+10004576,New College Durham,73.3,71.9,59.2,58.9,True,True,True,True,True,True,True,False,88.4,5.4,54.1,6.2,11.5,5.1,2.0,30.1,35.5,20.2,10.1,24.7,34.9,17.5,13.7,27.7,32.2,12.9,13.5
+10004579,New College Swindon,73.5,71.1,,47.3,True,True,True,True,,,True,True,87.2,7.3,60.6,10.0,8.9,3.9,1.3,23.4,32.0,22.7,14.7,41.1,20.3,15.7,14.2,40.9,21.2,23.3,8.8
+10004596,Newbury College,90.0,57.3,,79.4,False,False,True,True,,,False,False,56.2,20.2,27.0,3.4,3.4,3.4,,3.4,9.0,21.3,27.0,17.9,23.1,12.8,20.5,20.5,25.6,23.1,28.2
+10004603,Newcastle and Stafford Colleges Group,81.8,83.7,,56.3,True,False,False,False,,,True,True,12.7,29.6,47.4,2.9,0.7,1.8,,25.9,22.6,18.2,16.9,44.2,18.3,15.8,11.6,33.7,28.9,15.1,14.8
+10008397,Norland College Limited,94.5,95.3,75.7,10.0,False,False,False,False,False,False,True,True,9.6,43.8,98.6,1.2,0.9,3.8,,1.8,8.1,20.4,28.7,5.6,9.3,18.1,25.2,6.9,14.7,22.2,32.4
+10004686,North East Surrey College of Technology (NESCOT),76.3,80.7,77.8,51.5,True,True,True,False,False,False,True,True,84.2,8.4,56.0,24.4,11.2,2.0,3.9,24.3,31.9,16.8,13.9,4.8,7.9,18.9,29.4,2.6,9.6,13.2,32.0
+10004690,North Hertfordshire College,82.8,67.3,,49.9,True,False,True,True,,,True,True,95.2,5.9,46.9,5.3,4.2,1.6,5.3,28.4,33.8,22.2,11.1,8.3,25.0,20.8,30.6,5.6,18.1,20.8,25.0
+10004721,North Kent College,89.9,84.8,,58.4,False,False,False,False,,,True,False,9.8,36.2,56.3,2.2,3.8,6.3,,9.8,19.6,24.5,24.2,14.7,24.1,27.4,25.6,9.9,24.9,29.2,26.0
+10004718,North Warwickshire and South Leicestershire College,74.3,77.4,52.4,46.5,True,True,True,False,True,True,True,True,39.0,31.5,60.8,6.8,2.0,3.0,,12.5,21.1,19.8,24.3,24.3,36.2,17.3,16.5,26.4,35.5,15.3,14.9
+10007011,Northampton College,79.9,77.8,,61.0,True,True,True,False,,,True,False,28.9,32.6,39.0,4.1,9.2,3.7,2.3,28.0,18.8,16.1,17.9,25.2,20.6,27.1,20.0,20.0,34.8,25.8,14.8
+10048199,Northeastern University – London,91.2,81.3,93.8,80.8,False,False,True,False,False,False,False,False,12.5,30.8,62.7,14.2,5.7,7.8,6.7,13.5,20.2,23.4,19.9,8.3,11.5,19.8,22.1,8.4,11.3,16.8,23.5
+10008816,Northern School of Contemporary Dance,97.7,93.7,97.2,74.2,False,False,False,False,False,False,False,False,3.0,40.6,80.5,1.7,3.0,9.5,,10.3,10.3,17.3,30.4,10.1,15.0,14.1,20.7,14.9,16.3,13.9,17.8
+10004775,Norwich University of the Arts,91.1,91.2,75.0,67.7,False,False,False,False,False,False,False,False,12.5,28.2,64.6,3.7,3.2,4.8,1.2,12.2,18.4,24.0,21.4,17.3,20.7,19.6,22.6,24.4,22.2,18.2,21.4
+10004577,Nottingham College,83.5,78.5,68.2,56.9,True,False,True,False,True,False,True,False,28.8,23.5,62.0,6.6,9.0,8.2,1.3,33.1,15.7,13.9,16.2,32.4,17.0,16.7,13.0,32.2,20.4,16.6,14.6
+10004797,Nottingham Trent University,92.6,92.1,74.3,70.3,False,False,False,False,False,False,False,False,9.0,20.7,52.6,11.1,13.9,6.6,1.4,17.3,16.5,18.0,20.4,14.8,14.8,18.9,20.6,14.6,16.4,19.1,22.3
+10004835,Oaklands College,91.0,75.3,,,False,False,True,True,,,,,47.4,25.0,86.8,4.0,6.7,5.3,,3.9,15.8,31.6,23.7,7.5,12.5,22.5,20.0,7.5,,27.5,30.0
+10004930,Oxford Brookes University,87.5,91.7,72.6,73.8,False,False,False,False,True,False,False,False,44.4,21.4,56.2,16.6,11.2,5.9,2.2,24.3,15.7,17.7,19.1,8.7,10.3,16.2,21.3,9.0,14.3,23.4,25.0
+10005072,Peter Symonds College,84.5,82.3,74.0,82.8,True,False,True,False,False,False,False,False,84.5,15.0,85.0,1.8,3.1,1.3,,6.6,14.2,15.9,28.3,20.0,11.4,17.1,31.4,17.1,14.3,37.1,25.7
+10004676,Petroc,82.7,72.7,67.0,53.7,True,False,True,True,True,True,True,True,54.2,32.4,66.5,,,3.2,,13.4,35.9,20.8,25.7,20.8,30.0,33.8,10.0,30.0,58.5,11.5,
+10005124,Plumpton College,81.5,74.0,77.0,66.0,True,False,True,True,False,False,True,False,60.1,24.8,73.8,,,,,6.1,15.2,25.5,22.1,16.9,18.4,12.5,18.4,21.6,17.2,26.9,17.2
+10019178,Point Blank Limited,80.9,81.5,70.6,77.8,True,True,True,False,True,False,False,False,54.3,27.0,20.8,3.4,14.6,12.7,3.4,16.6,24.3,21.3,18.0,7.1,12.9,14.9,24.2,6.9,13.7,17.4,25.2
+10005200,Preston College,87.2,78.2,81.6,69.5,False,False,True,False,False,False,False,False,69.6,30.4,90.2,4.9,,4.9,,21.8,13.9,15.8,27.7,12.9,19.4,22.6,22.6,10.0,16.7,16.7,33.3
+10007775,Queen Mary University of London,93.7,94.4,87.2,75.5,False,False,False,False,False,False,False,False,6.5,11.0,51.7,47.4,12.3,7.2,7.8,18.1,30.9,22.0,15.7,3.4,6.6,16.7,34.8,3.3,5.7,9.7,24.1
+10005534,RNN Group,76.0,72.1,62.4,46.0,True,True,True,True,True,True,True,True,45.3,40.7,61.9,3.6,4.0,3.2,,47.6,24.1,12.5,11.8,42.2,37.7,13.1,5.5,50.3,23.6,19.8,3.1
+10008455,RTC Education Ltd,81.7,75.0,62.8,42.2,True,False,True,True,True,True,True,True,93.2,3.4,51.9,5.7,12.1,2.9,5.9,18.1,34.0,27.6,14.8,5.8,8.4,15.5,31.0,6.0,6.6,8.8,19.9
+10005378,Rambert School of Ballet and Contemporary Dance,96.6,,91.2,74.5,False,False,,,False,False,False,False,2.3,21.1,52.8,3.2,5.6,15.1,,8.1,18.5,16.9,29.8,9.6,10.4,16.0,22.4,10.6,14.6,13.0,24.4
+10005389,Ravensbourne University London,84.0,87.1,76.8,67.6,True,False,False,False,False,False,False,False,48.8,15.6,45.9,12.6,13.9,9.1,6.5,26.9,32.6,18.5,12.6,6.8,10.5,19.3,34.3,6.7,10.3,14.5,28.1
+10005404,Reaseheath College,87.4,81.4,58.8,29.9,False,False,True,False,True,True,True,True,30.2,41.6,75.7,0.4,,2.1,,20.6,16.8,19.5,20.8,20.0,15.4,17.5,23.3,22.5,16.6,18.2,23.4
+10086591,Regent's University London Limited,80.2,80.6,65.5,83.3,True,True,True,False,True,True,False,False,20.4,11.8,54.3,15.1,7.9,7.5,17.0,8.9,19.4,21.1,27.0,1.6,,6.6,15.6,1.9,3.7,4.7,19.6
+10005470,"Richmond, the American International University in London, Inc.",82.2,66.9,50.6,58.7,True,False,True,True,True,True,True,False,51.4,13.6,53.4,12.6,10.2,12.0,11.4,15.1,33.5,20.5,18.8,5.3,8.2,12.3,31.6,6.0,7.1,15.5,23.2
+10002863,Riverside College Halton,92.7,90.0,80.1,67.9,False,False,False,False,False,False,False,False,60.0,22.8,68.8,,,1.3,,45.4,19.4,11.4,12.4,48.4,21.9,12.5,12.5,30.5,28.9,18.8,16.4
+10007776,Roehampton University,88.7,79.2,67.9,60.3,False,False,True,False,True,False,True,False,31.9,19.2,61.6,19.7,29.1,8.2,8.9,19.4,32.4,22.4,15.1,4.3,7.6,16.8,33.4,3.7,7.3,9.3,26.5
+10005523,Rose Bruford College of Theatre and Performance,92.0,91.6,92.9,67.9,False,False,False,False,False,False,False,False,31.6,33.8,55.0,2.3,11.7,9.7,2.1,12.5,20.0,22.7,20.8,10.7,12.7,19.5,24.5,10.1,15.6,19.1,27.0
+10009292,Royal Academy of Dramatic Art,97.8,,,71.1,False,False,,,,,False,False,46.5,36.0,60.2,3.6,13.0,12.4,2.4,14.3,17.9,23.2,19.0,4.3,12.0,18.5,28.3,3.4,13.5,22.5,21.3
+10007778,Royal College of Music,98.5,96.9,90.2,86.6,False,False,False,False,False,False,False,False,4.2,17.6,52.9,4.2,2.3,13.8,,7.9,19.3,15.8,23.2,8.1,11.0,11.9,21.6,10.8,10.3,14.8,25.6
+10005553,Royal Holloway and Bedford New College,94.2,93.3,82.6,71.5,False,False,False,False,False,False,False,False,3.7,17.7,57.7,29.3,7.8,7.5,6.0,9.7,23.2,22.8,19.7,5.5,10.1,16.4,26.3,6.0,10.1,15.0,24.1
+10007837,Royal Northern College of Music,98.2,96.7,94.3,83.8,False,False,False,False,False,False,False,False,4.9,22.7,40.3,1.6,0.7,7.2,0.7,8.0,10.1,19.7,30.6,5.8,11.7,15.8,23.6,8.7,11.0,20.6,25.9
+10005032,Salford City College,78.3,79.2,40.0,38.1,True,True,True,False,True,True,True,True,16.2,25.0,67.6,2.1,1.8,2.8,,41.5,20.9,13.8,16.0,20.6,34.0,21.8,13.4,23.0,31.1,21.7,14.5
+10005788,"Sheffield College, The",79.8,74.2,53.7,58.1,True,True,True,True,True,True,True,False,29.7,39.6,56.3,9.9,8.1,5.2,3.8,45.7,13.8,17.1,11.7,42.5,31.3,14.0,6.5,38.3,22.7,24.2,5.7
+10005790,Sheffield Hallam University,90.5,88.0,75.1,73.3,False,False,False,False,False,False,False,False,20.0,24.2,55.8,11.0,6.5,4.5,2.1,27.3,16.9,17.3,18.0,24.4,24.6,16.6,16.1,22.2,20.6,22.9,16.5
+10005822,Shrewsbury College,79.3,74.8,,53.9,True,True,True,True,,,True,True,27.6,17.1,32.2,,,2.6,,9.7,13.4,24.6,28.4,16.4,6.4,22.7,47.3,23.7,5.2,39.2,24.7
+10005946,Solihull College and University Centre,85.0,77.7,73.1,59.4,True,False,True,False,True,False,True,False,44.4,24.7,59.8,17.4,4.7,6.0,1.7,29.9,13.3,17.3,21.1,11.5,12.4,32.6,15.5,9.3,11.8,26.7,29.8
+10005967,South & City College Birmingham,81.6,75.1,,50.7,True,False,True,True,,,True,True,57.2,19.0,44.4,37.1,16.9,6.2,5.5,66.6,17.2,6.7,3.8,22.2,17.8,30.6,16.7,12.4,11.2,18.0,36.0
+10005977,South Devon College,81.7,78.4,76.5,60.5,True,False,True,False,False,False,True,False,53.6,30.7,62.4,1.0,0.7,1.7,0.7,20.1,29.3,25.3,18.6,18.9,33.9,28.2,17.5,23.7,22.7,42.1,10.8
+10005981,South Essex College of Further and Higher Education,83.0,80.3,71.6,71.6,True,False,True,False,True,False,False,False,34.5,37.3,69.5,1.4,3.7,4.2,0.6,19.7,23.5,15.7,18.8,36.5,30.3,21.6,7.1,40.0,28.4,18.8,6.6
+10036143,South Gloucestershire and Stroud College,84.1,75.4,63.9,52.3,True,False,True,True,True,True,True,True,37.7,32.5,52.4,1.0,7.5,4.7,0.5,13.9,14.6,19.0,26.9,26.6,18.9,16.8,20.5,30.2,19.0,22.7,15.8
+10007928,South Hampshire College Group,85.1,82.2,75.3,73.7,True,False,True,False,False,False,False,False,68.6,20.0,67.9,3.2,,3.6,1.1,11.1,19.4,19.7,20.8,37.9,14.9,17.2,16.1,41.4,10.3,33.3,11.5
+10003674,South Thames Colleges Group,82.5,73.2,75.3,66.2,True,False,True,True,False,False,False,False,55.9,26.8,67.4,8.6,12.5,7.6,12.3,9.1,23.1,22.7,21.0,3.8,9.1,18.3,24.3,3.8,9.1,12.2,29.7
+10006022,Southampton Solent University,88.4,84.8,75.2,65.6,False,False,False,False,False,False,True,False,37.6,19.7,45.7,5.6,6.8,5.3,1.7,17.0,22.1,20.4,19.2,20.0,19.1,18.1,20.2,22.7,19.5,22.1,19.9
+10006050,Sparsholt College,85.0,79.5,68.8,53.9,True,False,True,False,True,False,True,True,29.8,39.4,74.4,0.7,0.5,2.1,,7.3,13.6,21.5,23.8,18.6,16.2,15.8,21.8,23.2,18.9,25.8,19.4
+10006174,St Helens College,75.1,67.5,73.7,53.7,True,True,True,True,True,False,True,True,56.5,30.6,62.5,1.6,1.3,2.0,,61.4,15.7,9.2,10.1,34.9,36.9,15.4,7.2,29.0,31.6,19.7,13.0
+10007843,"St Mary’s University, Twickenham",77.2,81.9,72.9,75.1,True,True,True,False,True,False,False,False,48.8,14.6,49.5,10.7,11.0,7.8,7.5,21.4,27.0,20.2,15.2,6.7,12.1,18.8,26.3,7.3,12.1,14.5,25.2
+10030776,St Mellitus College Trust,89.3,92.1,69.3,95.3,False,False,False,False,True,False,False,False,93.2,23.2,57.4,5.6,10.6,2.6,1.1,13.1,26.7,20.2,19.9,23.1,15.4,19.2,,34.6,,11.5,26.9
+10007938,TEC Partnership,83.8,77.7,63.9,61.3,True,False,True,False,True,True,True,False,54.4,33.5,57.9,0.4,0.4,1.1,,38.0,19.8,12.9,16.2,41.4,22.2,15.3,16.7,39.1,22.2,13.1,21.1
+10006494,Tameside College,78.2,85.5,,49.7,True,True,False,False,,,True,True,57.5,17.9,44.3,8.5,2.8,6.6,,53.8,21.7,13.2,5.7,46.7,33.3,,,40.0,35.6,,11.1
+10007161,Teesside University,85.2,85.3,74.8,73.6,True,False,False,False,False,False,False,False,42.7,24.5,66.9,7.5,3.1,2.5,1.3,39.4,19.1,13.4,16.0,30.6,23.7,13.7,20.5,22.8,26.2,16.0,15.1
+10006549,Telford College,83.7,74.3,,,True,False,True,True,,,,,63.0,20.3,50.7,5.8,3.6,2.9,,21.6,22.4,23.9,20.1,29.4,13.7,27.5,23.5,31.4,27.5,21.6,11.8
+10001386,The Chicken Shed Theatre Trust,93.3,93.8,73.3,52.0,False,False,False,False,True,False,True,True,26.2,77.0,59.0,2.5,12.3,18.0,4.9,20.5,24.6,18.0,18.9,,3.3,17.8,35.6,,3.3,4.4,32.2
+10003955,The City of Liverpool College,78.4,76.2,72.1,57.4,True,True,True,True,True,False,True,False,41.1,27.2,57.6,2.5,3.0,6.1,1.9,60.3,13.5,11.2,9.3,31.3,26.6,16.9,13.7,24.5,30.1,14.6,14.6
+10032288,The Edward James Foundation Limited,93.2,93.6,62.2,72.9,False,False,False,False,True,True,False,False,78.9,21.6,78.1,5.8,1.7,5.8,1.7,6.6,13.7,25.6,26.9,,10.2,8.2,24.5,6.3,6.3,27.1,25.0
+10004035,The Film Education Training Trust Limited,93.3,,91.4,,False,False,,,False,False,,,17.9,22.4,44.4,11.1,,17.5,,4.7,14.1,34.4,14.1,10.9,5.5,14.5,21.8,10.2,8.2,20.4,20.4
+10003945,The Liverpool Institute for Performing Arts,93.2,94.8,90.2,74.2,False,False,False,False,False,False,False,False,10.5,29.0,55.8,1.7,2.1,6.2,,16.1,14.9,17.4,21.6,12.3,15.3,16.5,22.7,11.5,15.9,17.8,25.3
+10004063,The London School of Economics and Political Science,97.8,96.0,93.2,87.7,False,False,False,False,False,False,False,False,1.1,16.6,49.5,41.3,8.1,9.5,3.7,15.7,18.3,18.6,21.4,7.5,7.2,13.0,23.9,6.7,8.1,10.4,22.6
+10023452,The Markfield Institute of Higher Education,97.0,89.5,62.6,82.1,False,False,False,False,True,True,False,False,66.7,2.8,58.9,81.6,7.1,3.5,7.8,45.7,27.9,15.0,6.4,10.6,21.3,25.5,25.5,6.4,19.1,23.4,27.7
+10001503,The Northern School of Art,91.5,87.1,72.5,55.5,False,False,False,False,True,False,True,True,17.6,44.0,75.7,1.6,0.5,2.0,0.4,33.5,19.6,15.6,17.6,26.7,22.0,17.4,20.0,20.5,28.1,15.5,18.0
+10006770,The Oldham College,85.1,77.7,58.6,53.0,True,False,True,False,True,True,True,True,60.8,26.7,67.6,32.2,7.6,4.1,1.1,65.4,14.9,9.4,7.6,22.4,32.1,32.1,10.2,22.7,19.8,18.2,30.0
+10007835,The Royal Academy of Music,96.6,98.4,95.0,88.7,False,False,False,False,False,False,False,False,1.3,20.0,46.0,3.6,1.3,12.5,,6.2,12.8,19.0,27.2,3.2,11.0,10.0,20.1,6.5,7.0,14.5,28.5
+10005545,The Royal Agricultural University,88.9,91.4,66.3,64.7,False,False,False,False,True,True,True,False,16.6,36.2,54.6,0.7,0.7,2.2,0.5,2.8,11.9,29.2,31.6,3.5,6.7,17.2,25.4,5.8,13.8,26.6,31.7
+10007816,The Royal Central School of Speech and Drama,93.8,95.6,91.4,66.8,False,False,False,False,False,False,False,False,22.5,38.2,69.3,3.4,9.5,6.8,0.7,11.7,18.8,19.4,23.9,11.5,12.3,18.1,25.6,12.1,12.4,20.0,21.8
+10007779,The Royal Veterinary College,97.0,95.3,73.8,89.6,False,False,False,False,False,False,False,False,16.8,20.4,83.8,10.0,2.2,6.6,1.6,14.9,19.8,21.2,19.7,15.5,16.4,17.7,23.3,16.2,16.2,20.0,19.0
+10007780,The School of Oriental and African Studies,89.2,86.9,83.8,73.8,False,False,False,False,False,False,False,False,10.6,17.2,62.4,36.7,14.4,12.8,13.3,19.2,30.3,21.1,17.1,3.0,5.6,14.8,33.0,3.2,5.4,8.8,23.7
+10007850,The University of Bath,97.2,97.3,89.2,87.2,False,False,False,False,False,False,False,False,1.6,17.5,43.8,11.4,2.2,6.2,1.3,4.5,11.5,18.3,24.6,5.7,9.8,14.0,20.9,6.8,11.5,17.9,24.2
+10006840,The University of Birmingham,95.7,96.1,89.0,80.9,False,False,False,False,False,False,False,False,3.6,16.0,60.3,23.6,8.5,6.0,2.1,18.8,13.3,15.8,19.7,8.9,12.3,19.4,19.9,7.5,11.9,17.9,26.0
+10007785,The University of Bradford,90.4,86.9,80.0,76.2,False,False,False,False,False,False,False,False,26.9,15.9,60.1,63.3,8.7,3.2,2.5,60.9,21.1,8.1,6.6,10.8,31.3,33.7,17.4,8.0,13.8,36.5,31.4
+10007787,The University of Buckingham,87.7,85.9,85.3,78.1,False,False,False,False,False,False,False,False,42.4,13.8,57.9,26.0,16.6,5.9,4.1,8.7,16.3,20.6,24.4,7.4,10.8,16.0,26.6,7.9,9.7,19.4,26.8
+10007137,The University of Chichester,91.6,91.6,77.0,69.6,False,False,False,False,False,False,False,False,16.0,28.5,64.9,2.6,2.2,4.2,0.7,9.3,15.0,21.3,24.3,17.8,18.6,19.2,20.7,21.8,20.8,23.5,18.5
+10007842,The University of Cumbria,85.9,88.4,69.5,72.7,False,False,False,False,True,False,False,False,55.3,17.1,68.1,9.0,3.9,1.7,2.3,21.4,25.6,20.6,18.6,16.9,19.6,25.0,23.4,20.1,20.6,17.3,25.5
+10007789,The University of East Anglia,93.2,92.3,83.3,77.2,False,False,False,False,False,False,False,False,13.3,22.9,54.2,9.9,6.8,5.7,1.8,10.6,16.1,22.5,23.0,13.0,17.1,19.3,23.4,17.7,19.1,18.9,22.8
+10007791,The University of Essex,89.1,89.5,81.3,71.6,False,False,False,False,False,False,False,False,26.1,18.6,56.3,9.8,23.1,6.5,2.7,18.1,23.6,22.5,18.4,15.7,16.6,21.1,25.1,18.2,16.6,20.5,22.7
+10007148,The University of Huddersfield,89.0,88.6,77.2,70.0,False,False,False,False,False,False,False,False,19.6,16.7,60.8,37.1,6.5,3.6,1.6,44.1,21.0,13.6,13.3,15.2,25.7,31.2,17.5,11.2,16.9,30.9,26.1
+10007149,The University of Hull,88.6,85.2,77.4,73.1,False,False,False,False,False,False,False,False,23.8,21.7,58.5,6.2,4.5,3.6,1.6,28.4,18.4,16.5,19.1,27.8,21.9,17.6,16.9,25.6,20.1,22.8,16.1
+10007150,The University of Kent,92.4,91.9,82.1,69.7,False,False,False,False,False,False,False,False,7.8,18.1,52.4,14.0,22.7,6.6,3.1,16.3,23.4,20.9,19.4,11.8,16.1,22.4,26.1,11.6,16.0,20.0,24.3
+10007768,The University of Lancaster,96.1,96.3,86.7,78.3,False,False,False,False,False,False,False,False,3.6,19.6,46.5,12.6,4.4,5.6,2.0,13.8,14.6,18.0,24.2,8.9,14.0,17.3,24.5,8.7,14.3,17.7,26.0
+10039956,The University of Law Limited,92.4,87.6,71.5,68.8,False,False,False,False,True,False,False,False,14.5,20.2,71.7,34.3,12.7,6.8,6.1,36.5,24.9,15.2,12.6,16.2,18.4,21.7,22.8,13.2,16.5,16.9,24.7
+10007795,The University of Leeds,95.6,94.4,90.6,80.7,False,False,False,False,False,False,False,False,5.1,17.7,60.9,12.7,3.6,5.8,1.4,14.1,14.1,16.9,23.0,9.6,12.9,15.1,20.0,9.3,12.4,17.4,22.4
+10007796,The University of Leicester,94.9,94.2,80.4,76.0,False,False,False,False,False,False,False,False,5.7,10.0,51.8,33.9,21.2,6.0,2.5,19.1,20.9,20.0,18.7,11.1,15.2,21.8,24.1,10.5,14.7,19.5,24.7
+10006842,The University of Liverpool,95.2,95.2,87.6,77.9,False,False,False,False,False,False,False,False,6.7,18.5,59.2,9.3,3.0,5.4,1.6,16.0,12.8,16.9,23.1,11.1,12.0,16.2,21.2,9.4,12.7,17.1,23.6
+10007798,The University of Manchester,95.9,96.1,88.0,80.3,False,False,False,False,False,False,False,False,5.4,20.9,58.7,19.2,5.2,7.6,2.5,18.3,15.0,17.0,21.0,9.0,12.0,16.2,21.6,8.2,11.9,16.2,25.2
+10007802,The University of Reading,93.2,94.3,82.6,76.4,False,False,False,False,False,False,False,False,7.9,22.4,53.0,19.9,7.6,6.5,3.2,7.6,17.7,20.9,22.2,7.9,12.7,17.8,24.2,8.7,14.1,19.3,24.9
+10007157,The University of Sheffield,95.8,93.7,88.8,78.7,False,False,False,False,False,False,False,False,7.8,21.8,51.5,12.2,3.5,5.7,2.3,12.0,12.6,17.4,23.0,9.8,12.9,15.9,21.6,9.3,12.8,18.9,22.6
+10007160,The University of Surrey,93.2,93.3,78.5,83.0,False,False,False,False,False,False,False,False,13.4,17.8,55.3,23.0,7.9,6.2,2.7,7.5,17.7,19.9,22.6,7.3,11.2,19.0,25.4,8.4,12.9,19.4,24.9
+10007163,The University of Warwick,96.6,96.8,86.9,83.5,False,False,False,False,False,False,False,False,5.8,16.0,47.0,24.0,11.0,6.9,2.0,10.8,15.1,18.3,22.6,6.4,9.5,16.0,23.7,6.4,10.1,16.7,24.6
+10006566,The University of West London,83.0,77.1,78.8,69.0,True,False,True,False,False,False,False,False,64.9,11.4,54.3,15.1,20.7,6.6,7.5,25.3,33.2,21.0,12.0,8.7,12.7,18.0,29.1,8.3,12.2,13.4,23.3
+10007165,The University of Westminster,86.7,86.8,70.6,63.9,False,False,False,False,True,False,True,False,15.1,10.8,57.1,37.9,17.0,7.9,8.7,22.7,35.7,21.1,12.2,4.6,8.0,18.2,37.2,4.4,6.9,10.0,26.3
+10002107,The Windsor Forest Colleges Group,80.0,69.7,,74.8,True,True,True,True,,,False,False,50.2,19.8,78.7,17.0,4.4,6.3,1.5,6.9,24.1,23.2,25.1,,12.6,27.2,32.0,,8.8,23.5,37.3
+10005998,Trafford and Stockport College Group,77.5,75.2,71.9,74.0,True,True,True,True,True,False,False,False,79.6,17.8,62.2,24.1,10.5,5.7,1.3,40.4,26.6,12.5,11.6,20.0,22.1,17.1,17.1,16.4,17.1,26.4,12.9
+10008017,Trinity Laban Conservatoire of Music and Dance,94.1,92.9,92.2,79.2,False,False,False,False,False,False,False,False,9.5,31.0,60.5,3.2,3.9,9.2,1.2,8.5,18.9,21.5,24.8,4.8,10.5,15.0,31.5,5.9,11.8,16.5,35.5
+10007063,Truro and Penwith College,84.8,83.5,70.7,53.5,True,False,False,False,True,False,True,True,43.8,39.8,67.5,,0.6,1.8,,13.7,35.0,33.3,16.5,8.6,28.3,31.0,20.6,10.6,37.4,41.1,10.6
+10005999,Tyne Coast College,80.6,78.7,,62.5,True,True,True,False,,,True,False,71.3,9.6,32.4,13.9,9.9,10.9,4.5,37.7,36.2,11.4,7.9,25.8,23.4,16.3,22.8,17.3,22.2,17.8,21.1
+10015506,UCK Limited,89.0,86.6,46.1,41.3,False,False,False,False,True,True,True,True,95.3,0.4,37.2,2.6,3.0,0.8,3.9,21.7,35.9,24.3,12.2,14.3,7.1,20.2,33.3,10.7,6.0,7.1,29.8
+10005736,Unified Seevic Palmer’s College,68.5,67.4,,40.9,True,True,True,True,,,True,True,68.5,8.0,46.8,7.6,2.9,2.7,1.3,26.6,28.8,19.3,13.0,33.9,37.9,18.4,4.0,36.8,28.2,21.8,5.7
+10068157,University Centre Peterborough,88.2,80.0,81.6,70.8,False,False,True,False,False,False,False,False,28.4,23.6,79.1,4.3,2.1,4.9,0.3,20.0,21.6,19.7,19.2,19.2,25.0,21.7,19.2,25.9,19.9,22.2,20.2
+10000878,University Centre Somerset College Group,83.6,79.6,74.5,57.2,True,False,True,False,False,False,True,False,62.9,20.7,59.6,22.6,1.4,2.4,0.4,12.8,24.6,29.5,22.7,30.6,14.5,27.7,16.4,36.2,23.4,25.8,9.0
+10000712,University College Birmingham,80.9,76.9,58.5,47.1,True,True,True,False,True,True,True,True,39.3,12.4,66.3,21.6,21.0,6.6,3.4,48.9,18.9,13.6,9.8,18.5,23.0,28.5,15.1,14.5,17.9,21.5,29.1
+10007784,University College London,96.1,95.5,93.9,84.3,False,False,False,False,False,False,False,False,4.3,17.5,57.2,36.7,6.6,9.7,4.6,12.5,18.8,19.9,21.9,5.2,6.7,12.9,23.8,4.7,7.4,11.9,24.0
+10006427,University for the Creative Arts,78.0,89.7,80.9,61.7,True,True,False,False,False,False,True,False,62.9,19.9,52.1,7.5,10.3,6.3,5.2,20.3,31.0,21.2,14.5,12.9,14.8,19.6,25.1,13.3,16.1,18.9,22.2
+10007152,University of Bedfordshire,71.5,65.4,62.0,63.6,True,True,True,True,True,True,True,False,65.4,13.5,64.1,16.2,23.5,4.8,3.3,26.9,28.4,19.5,15.0,9.5,21.6,24.2,29.9,9.6,20.8,22.2,19.5
+10000886,University of Brighton,88.5,85.1,76.5,73.8,False,False,False,False,False,False,False,False,20.1,28.8,61.1,8.5,6.0,6.9,2.8,11.5,19.1,22.1,22.5,14.3,16.9,18.2,22.4,16.5,17.8,20.9,21.4
+10007786,University of Bristol,97.1,96.9,91.2,80.8,False,False,False,False,False,False,False,False,5.0,17.8,55.6,9.3,2.9,7.7,1.6,5.7,11.8,19.9,26.1,6.7,10.5,12.4,19.6,7.6,11.9,16.8,23.6
+10007788,University of Cambridge,98.9,98.7,92.8,87.6,False,False,False,False,False,False,False,False,3.3,14.9,53.5,16.5,4.9,9.0,1.4,7.5,13.8,18.3,24.2,5.2,9.3,12.4,20.9,5.9,9.7,14.2,23.8
+10007848,University of Chester,89.3,86.6,77.7,70.9,False,False,False,False,False,False,False,False,30.8,20.3,70.4,3.0,3.9,3.3,0.8,25.3,18.5,17.3,19.9,20.1,19.9,19.5,21.4,18.7,19.2,21.1,21.2
+10007851,University of Derby,86.9,81.8,70.3,70.8,False,False,True,False,True,False,False,False,33.2,20.4,60.6,11.6,13.7,4.3,0.9,27.6,19.4,18.1,16.3,25.9,20.5,21.3,17.6,26.2,22.8,21.1,17.3
+10007143,University of Durham,97.3,97.7,94.0,82.6,False,False,False,False,False,False,False,False,2.6,20.0,52.5,5.9,1.9,6.3,0.7,8.6,12.5,18.9,25.5,8.8,13.7,13.2,19.8,9.4,14.8,17.3,23.5
+10007144,University of East London,85.9,85.8,76.6,66.2,False,False,False,False,False,False,False,False,39.7,15.0,49.4,17.2,30.6,7.7,5.0,25.7,33.8,18.5,11.5,9.6,13.1,20.4,34.1,10.0,12.0,15.2,25.3
+10007792,University of Exeter,96.4,96.2,90.8,79.9,False,False,False,False,False,False,False,False,3.9,22.0,54.8,4.4,1.9,5.6,1.1,4.6,11.5,19.2,25.8,6.0,11.9,13.9,19.3,8.0,14.1,20.2,24.3
+10007145,University of Gloucestershire,89.4,88.3,65.8,70.5,False,False,False,False,True,True,False,False,30.1,30.5,60.7,4.2,4.4,3.8,0.9,11.5,14.5,22.0,24.3,15.1,21.4,22.9,20.1,18.0,22.5,26.1,19.4
+10006841,University of Greater Manchester,83.9,79.1,69.2,66.6,True,False,True,False,True,False,False,False,61.6,14.6,62.2,15.0,19.4,4.1,2.9,46.9,21.2,14.2,11.3,19.7,24.1,22.9,19.9,17.4,20.9,20.3,26.3
+10007146,University of Greenwich,87.8,84.1,73.3,70.1,False,False,False,False,True,False,False,False,26.7,16.6,60.8,25.6,22.5,6.9,6.2,23.9,35.2,19.3,12.1,7.4,11.7,21.2,37.6,6.8,10.1,13.9,27.4
+10007147,University of Hertfordshire,90.3,87.2,77.7,72.1,False,False,False,False,False,False,False,False,23.2,15.6,56.6,24.3,20.0,6.4,5.0,16.9,26.5,23.7,16.8,7.4,15.2,20.5,29.7,7.1,13.5,16.4,22.4
+10007767,University of Keele,92.5,91.1,80.7,76.1,False,False,False,False,False,False,False,False,14.0,21.6,61.3,23.7,8.7,4.8,2.1,24.9,18.0,17.4,18.9,18.6,19.7,20.9,18.7,15.2,19.7,22.6,22.0
+10007141,University of Lancashire,84.0,82.2,71.2,71.2,True,False,True,False,True,False,False,False,36.4,26.7,62.5,21.3,6.4,3.7,2.0,39.9,19.9,13.9,15.1,13.9,23.2,20.4,24.6,11.7,21.5,19.1,27.4
+10007151,University of Lincoln,92.6,91.8,76.7,68.7,False,False,False,False,False,False,False,False,11.2,21.7,58.3,4.6,3.3,3.6,1.1,15.6,16.9,20.5,23.5,19.5,23.6,20.6,20.2,21.6,21.1,24.0,20.1
+10007799,University of Newcastle upon Tyne,95.2,96.2,85.6,78.8,False,False,False,False,False,False,False,False,4.2,16.8,52.9,7.6,1.8,4.8,1.5,11.0,12.5,17.8,24.6,9.2,14.3,14.7,19.9,8.8,14.4,18.2,23.1
+10007138,"University of Northampton, the",80.3,83.7,70.8,70.5,True,True,False,False,True,False,False,False,35.2,16.1,65.0,8.6,26.3,5.0,2.1,22.9,25.6,18.7,17.7,17.6,19.7,23.2,24.0,16.1,20.9,21.7,22.7
+10001282,University of Northumbria at Newcastle,88.7,87.1,81.0,75.1,False,False,False,False,False,False,False,False,13.7,17.8,57.3,5.9,2.6,3.4,1.3,21.7,18.2,16.7,19.7,16.7,20.9,18.9,19.3,14.7,21.0,19.2,19.6
+10007154,"University of Nottingham, the",96.1,96.2,83.7,80.5,False,False,False,False,False,False,False,False,5.6,22.1,54.6,15.5,9.5,7.0,1.3,10.4,13.9,17.8,22.5,8.1,10.4,15.6,21.7,8.4,11.5,16.6,23.5
+10007774,University of Oxford,98.1,98.8,96.0,87.2,False,False,False,False,False,False,False,False,2.1,21.3,53.6,12.0,3.7,8.5,1.8,7.5,13.5,19.8,24.7,6.8,8.9,13.0,20.9,7.1,10.4,14.9,24.3
+10007801,University of Plymouth,91.4,89.8,77.3,76.4,False,False,False,False,False,False,False,False,24.6,20.1,61.0,7.1,3.0,3.5,1.4,13.1,21.2,22.3,22.5,14.6,19.7,22.3,20.7,17.9,22.0,25.0,19.9
+10007155,University of Portsmouth,92.1,87.8,79.8,72.7,False,False,False,False,False,False,False,False,14.3,21.5,50.5,11.5,9.2,6.0,2.4,12.0,20.0,21.2,20.0,17.5,15.9,18.3,22.4,19.5,17.6,21.8,20.7
+10007156,"University of Salford, the",90.0,84.1,76.4,72.6,False,False,False,False,False,False,False,False,24.9,26.3,57.7,20.3,11.1,4.6,3.4,41.9,18.3,12.7,14.3,16.8,23.2,21.5,20.9,14.2,20.5,19.2,26.0
+10007158,University of Southampton,96.2,94.8,87.1,80.6,False,False,False,False,False,False,False,False,7.1,22.0,51.1,14.9,4.4,6.8,3.1,6.8,12.8,18.5,23.2,8.3,11.4,16.0,23.2,10.2,13.4,19.2,23.7
+10037449,University of St Mark & St John,87.0,82.3,76.5,71.8,False,False,True,False,False,False,False,False,34.1,26.7,53.6,0.9,2.1,3.4,1.4,14.6,25.5,24.2,20.5,17.3,25.2,24.3,20.1,22.5,26.7,24.9,16.8
+10006299,University of Staffordshire,87.3,83.5,76.5,69.8,False,False,False,False,False,False,False,False,49.2,19.1,51.8,6.5,6.4,3.7,1.6,31.2,23.7,17.3,15.5,26.2,20.3,20.7,17.0,22.8,22.7,19.9,19.0
+10014001,University of Suffolk,79.1,72.4,71.4,72.4,True,True,True,True,True,False,False,False,87.6,9.2,50.8,16.1,10.8,4.5,3.8,40.0,26.5,17.6,9.8,25.2,21.2,20.3,20.2,32.8,19.1,18.9,19.3
+10007159,University of Sunderland,84.6,83.5,72.8,61.7,True,False,False,False,True,False,True,False,64.3,12.3,63.2,14.3,14.6,2.2,2.9,33.3,30.2,17.0,11.5,28.9,25.0,18.0,14.8,23.1,27.2,17.3,16.1
+10007806,University of Sussex,93.4,93.5,84.7,71.0,False,False,False,False,False,False,False,False,8.3,27.0,55.8,9.9,5.7,9.3,3.0,9.1,15.2,20.8,23.5,9.5,11.4,14.2,23.3,10.7,13.1,17.0,23.8
+10003614,University of Winchester,90.6,89.8,73.5,67.5,False,False,False,False,True,False,False,False,18.7,28.1,65.9,4.2,3.7,3.7,1.1,7.0,13.7,19.6,23.0,15.4,17.8,18.4,21.6,18.7,19.4,24.0,21.0
+10007166,University of Wolverhampton,85.7,77.9,71.6,68.4,True,False,True,False,True,False,False,False,43.3,19.4,64.5,22.8,24.0,5.8,2.1,51.9,19.9,11.9,9.6,22.6,26.8,27.2,13.0,16.8,21.3,22.0,25.9
+10007139,University of Worcester,86.1,85.9,67.0,75.0,False,False,False,False,True,True,False,False,36.1,24.2,72.6,4.9,5.1,3.6,0.7,18.3,17.7,21.5,22.8,15.3,22.2,20.1,21.6,14.6,22.3,27.1,22.3
+10007167,University of York,96.4,96.7,83.2,77.8,False,False,False,False,False,False,False,False,5.1,19.9,58.8,6.5,2.3,5.1,1.0,10.1,12.5,18.0,24.7,10.0,15.2,16.2,21.1,10.6,14.9,20.0,23.0
+10007162,"University of the Arts, London",92.3,88.9,82.9,67.7,False,False,False,False,False,False,False,False,13.9,25.2,73.8,11.2,7.9,11.9,2.6,12.6,21.9,21.6,21.2,7.9,11.7,16.3,25.5,8.7,12.8,16.0,24.5
+10007164,"University of the West of England, Bristol",91.1,85.6,79.7,76.0,False,False,False,False,False,False,False,False,19.9,22.9,53.5,7.8,5.7,5.8,1.3,11.9,16.2,21.3,23.6,15.9,17.2,18.8,19.6,17.6,20.6,22.9,20.0
+10089591,Walbrook Institute London Limited,85.8,92.3,63.3,70.9,True,False,False,False,True,True,False,False,6.1,11.8,24.3,20.2,9.7,8.5,4.8,13.8,27.0,22.2,17.7,9.6,17.3,18.8,31.8,10.9,15.0,20.3,25.4
+10007315,Walsall College,64.5,65.1,58.3,52.4,True,True,True,True,True,True,True,True,36.3,20.6,51.2,15.2,8.1,5.4,0.7,53.9,21.1,11.3,8.8,30.0,36.5,18.8,10.0,20.4,35.8,22.7,12.3
+10007339,Warrington & Vale Royal College,82.4,84.4,,59.9,True,False,False,False,,,True,False,34.7,39.4,38.0,1.5,2.2,1.8,,32.1,25.5,12.4,17.2,41.3,26.8,10.1,10.6,36.9,27.4,12.8,14.0
+10007859,Warwickshire College,82.0,80.5,77.5,71.4,True,False,True,False,False,False,False,False,43.8,28.2,69.7,3.6,1.0,4.4,0.4,11.2,12.8,22.4,27.5,14.0,14.3,18.6,19.9,10.5,20.0,20.7,30.2
+10007417,West Herts College,81.3,81.6,,52.8,True,False,True,False,,,True,True,26.9,37.2,37.7,11.2,5.8,5.8,,7.6,21.5,22.9,23.3,3.1,14.1,27.0,17.2,1.9,11.1,20.4,24.7
+10007431,West Suffolk College,83.7,82.1,65.3,,True,False,True,False,True,True,,,37.2,31.3,50.5,1.3,1.6,5.3,,7.0,17.9,29.7,27.8,28.1,11.9,18.7,32.3,26.4,20.9,30.2,22.6
+10007434,West Thames College,85.7,80.6,,52.8,True,False,True,False,,,True,True,58.9,13.2,76.3,40.8,17.4,7.7,8.4,13.3,40.6,30.1,9.4,2.5,11.0,12.7,28.0,,5.9,11.0,16.1
+10007459,Weston College of Further and Higher Education,84.3,80.1,67.4,63.6,True,False,True,False,True,True,True,False,55.2,43.1,64.2,0.6,1.4,2.1,0.8,21.4,19.7,20.6,28.5,28.2,27.2,26.5,11.2,29.9,18.9,32.0,16.5
+10007469,Weymouth and Kingston Maurward College,79.9,78.4,78.8,50.4,True,True,True,False,False,False,True,True,27.6,24.0,50.5,1.8,,2.2,,14.5,22.5,25.1,26.9,13.6,51.3,11.6,20.1,15.6,42.2,27.6,12.6
+10007500,Wigan and Leigh College,81.9,81.2,84.2,55.0,True,False,True,False,False,False,True,True,25.5,33.8,51.1,1.1,,2.8,,42.9,19.8,16.5,12.1,37.0,25.2,18.5,14.4,24.8,28.5,22.2,14.4
+10007527,Wiltshire College and University Centre,75.8,75.7,,40.7,True,True,True,True,,,True,True,64.5,27.6,63.3,,1.7,2.7,0.7,6.0,13.4,22.6,30.6,9.0,17.4,36.1,22.9,10.4,39.6,28.5,14.6
+10007553,Wirral Metropolitan College,81.6,78.9,69.0,77.8,True,False,True,False,True,False,False,False,61.3,50.3,72.5,0.9,,5.4,0.9,53.9,14.5,14.2,9.5,26.2,14.9,17.7,17.7,23.7,12.9,14.4,19.4
+10007696,Yeovil College,82.1,82.4,72.7,63.3,True,False,True,False,True,False,True,False,56.8,28.1,57.6,2.2,1.1,2.2,1.8,11.5,14.4,33.1,27.7,25.8,30.8,25.0,14.2,37.5,37.5,22.5,2.5
+10007709,York College,83.0,77.5,83.1,56.5,True,False,True,False,False,False,True,True,37.0,32.0,70.3,1.0,1.3,2.3,1.0,11.0,14.4,18.9,24.1,13.2,17.5,24.3,20.6,13.4,21.9,25.1,19.3
+10007713,York St John University,89.0,90.5,73.2,65.5,False,False,False,False,True,False,True,False,14.0,27.4,66.8,2.5,1.3,3.1,0.6,19.4,17.3,18.0,22.2,19.8,21.8,19.9,19.8,18.4,20.4,22.8,19.9
